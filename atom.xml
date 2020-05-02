@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiazhiming.github.io/</id>
+    <id>https://xiazhiming.github.io/test/</id>
     <title>thinyux</title>
-    <updated>2020-05-02T18:31:23.242Z</updated>
+    <updated>2020-05-02T18:31:47.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiazhiming.github.io/"/>
-    <link rel="self" href="https://xiazhiming.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiazhiming.github.io/test/"/>
+    <link rel="self" href="https://xiazhiming.github.io/test/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://xiazhiming.github.io/images/avatar.png</logo>
-    <icon>https://xiazhiming.github.io/favicon.ico</icon>
+    <logo>https://xiazhiming.github.io/test/images/avatar.png</logo>
+    <icon>https://xiazhiming.github.io/test/favicon.ico</icon>
     <rights>All rights reserved 2020, thinyux</rights>
     <entry>
         <title type="html"><![CDATA[又是一个测试]]></title>
-        <id>https://xiazhiming.github.io/post/you-shi-yi-ge-ce-shi/</id>
-        <link href="https://xiazhiming.github.io/post/you-shi-yi-ge-ce-shi/">
+        <id>https://xiazhiming.github.io/test/post/you-shi-yi-ge-ce-shi/</id>
+        <link href="https://xiazhiming.github.io/test/post/you-shi-yi-ge-ce-shi/">
         </link>
         <updated>2020-05-02T18:21:35.000Z</updated>
         <summary type="html"><![CDATA[<p>再次测试一下</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[文章测试]]></title>
-        <id>https://xiazhiming.github.io/post/asdfasdfasdf/</id>
-        <link href="https://xiazhiming.github.io/post/asdfasdfasdf/">
+        <id>https://xiazhiming.github.io/test/post/asdfasdfasdf/</id>
+        <link href="https://xiazhiming.github.io/test/post/asdfasdfasdf/">
         </link>
         <updated>2020-05-02T14:36:29.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -35,8 +35,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[fasdfafas]]></title>
-        <id>https://xiazhiming.github.io/post/fasdfafas/</id>
-        <link href="https://xiazhiming.github.io/post/fasdfafas/">
+        <id>https://xiazhiming.github.io/test/post/fasdfafas/</id>
+        <link href="https://xiazhiming.github.io/test/post/fasdfafas/">
         </link>
         <updated>2020-05-02T14:35:54.000Z</updated>
         <content type="html"><![CDATA[<p>fasdfasdfasdfsadfasdf</p>
@@ -44,13 +44,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://xiazhiming.github.io/post/about/</id>
-        <link href="https://xiazhiming.github.io/post/about/">
+        <id>https://xiazhiming.github.io/test/post/about/</id>
+        <link href="https://xiazhiming.github.io/test/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://xiazhiming.github.io//post-images/1588430125844.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://xiazhiming.github.io/test//post-images/1588430125844.png" alt="" loading="lazy"></figure>
 <!-- more -->
 <blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
@@ -63,8 +63,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiazhiming.github.io/post/hello-gridea/</id>
-        <link href="https://xiazhiming.github.io/post/hello-gridea/">
+        <id>https://xiazhiming.github.io/test/post/hello-gridea/</id>
+        <link href="https://xiazhiming.github.io/test/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>仅供测试<br>
